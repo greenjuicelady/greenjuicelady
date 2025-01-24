@@ -4,6 +4,9 @@
 ![CSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
 ![C#](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp2.svg)
 ![ILLUSTRATOR](https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator2.svg)
+![PHOTSHOP](https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop2.svg)
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
