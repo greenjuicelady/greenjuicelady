@@ -2,6 +2,8 @@
 
 ![HTML](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg)
 ![CSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
+![C#](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp2.svg)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
