@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-good
-
+![good](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg)
+!https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
